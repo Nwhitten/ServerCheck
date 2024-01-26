@@ -1,16 +1,13 @@
 [Unit]
-Description=Unicorn Hat
+Description=ServerCheck
 After=multi-user.target
 
 [Service]
 ExecStart=/usr/bin/python3 /usr/local/bin/ServerCheck/ServerCheck.py
 Restart=always
 RestartSec=10s
-KillMode=process
+User=pi
 
 [Install]
 WantedBy=multi-user.target
-
-
-
 
