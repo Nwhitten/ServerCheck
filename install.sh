@@ -9,8 +9,8 @@ wget https://raw.githubusercontent.com/nwhitten/ServerCheck/master/ServerCheck.p
 
 wget https://raw.githubusercontent.com/nwhitten/ServerCheck/master/ServerCheck.service
 
-wget https://raw.githubusercontent.com/nwhitten/ServerCheck/master/assets/ArialUnicode.ttf
-wget https://raw.githubusercontent.com/nwhitten/ServerCheck/master/assets/ArialBold.ttf
+wget https://raw.githubusercontent.com/nwhitten/ServerCheck/master/Assets/ArialUnicode.ttf
+wget https://raw.githubusercontent.com/nwhitten/ServerCheck/master/Assets/ArialBold.ttf
 
 
 echo ""
