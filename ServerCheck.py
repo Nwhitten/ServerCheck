@@ -79,7 +79,8 @@ fontPibo8 = ImageFont.truetype("/usr/share/fonts/truetype/piboto/Piboto-Bold.ttf
 fontPibo20 = ImageFont.truetype("/usr/share/fonts/truetype/piboto/Piboto-Regular.ttf",20)
 
 
-brightness = 0.25
+#brightness = 0.25
+brightness = 1
 
 Cr,Cg,Cb = 255,127,0
 Gr,Gg,Gb = 0,70,0
